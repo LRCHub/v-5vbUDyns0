@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シュガーハイウェイ",
+  "base_artist": "神山羊",
+  "createdAt": "2026-02-13T23:03:26.322402Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シュガーハイウェイ",
+      "artist": "神山 羊",
+      "has_synced": false,
+      "path": "select/pl_01_シュガーハイウェイ_神山_羊.txt"
+    }
+  ]
+}
